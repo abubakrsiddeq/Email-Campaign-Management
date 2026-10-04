@@ -1,0 +1,497 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Project setup and core infrastructure": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137874354
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137894083
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791138750973
+      }
+    ],
+    "2.1 Create SQL migration file with complete database schema": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137874719
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791138763740
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791139946110
+      }
+    ],
+    "2.2 Implement database connection pooling": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137874993
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791138763982
+      },
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791139947147
+      }
+    ],
+    "3.1 Implement encryption utilities": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875132
+      }
+    ],
+    "3.2 Implement authentication utilities": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875275
+      }
+    ],
+    "4.1 Create administrator repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875397
+      }
+    ],
+    "4.2 Create session repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875516
+      }
+    ],
+    "4.3 Create configuration repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875618
+      }
+    ],
+    "4.4 Create contact repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875750
+      }
+    ],
+    "4.5 Create campaign repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875865
+      }
+    ],
+    "4.6 Create queue repository": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137875971
+      }
+    ],
+    "5. Checkpoint - Database layer complete": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876082
+      }
+    ],
+    "6.1 Implement authentication service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876217
+      }
+    ],
+    "6.2 Implement contact service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876346
+      }
+    ],
+    "6.3 Implement import service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876525
+      }
+    ],
+    "6.4 Implement campaign service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876699
+      }
+    ],
+    "6.5 Implement configuration service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876818
+      }
+    ],
+    "6.6 Implement personalization utility": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137876946
+      }
+    ],
+    "7.1 Create authentication middleware": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877058
+      }
+    ],
+    "7.2 Build login page UI": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877159
+      }
+    ],
+    "7.3 Implement authentication API routes": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877357
+      }
+    ],
+    "8.1 Create dashboard layout with sidebar": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877464
+      }
+    ],
+    "8.2 Build main dashboard page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877573
+      }
+    ],
+    "8.3 Create shared UI components": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877699
+      }
+    ],
+    "9.1 Build contacts list page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877800
+      }
+    ],
+    "9.2 Build add/edit contact forms": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137877999
+      }
+    ],
+    "9.3 Build contact import wizard": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878098
+      }
+    ],
+    "9.4 Implement contacts API routes": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878198
+      }
+    ],
+    "10. Checkpoint - Contact management complete": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878308
+      }
+    ],
+    "11.1 Build campaigns list page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878413
+      }
+    ],
+    "11.2 Build campaign creation form": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878580
+      }
+    ],
+    "11.3 Build campaign edit page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878696
+      }
+    ],
+    "11.4 Build campaign preview functionality": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878798
+      }
+    ],
+    "11.5 Build campaign detail and recipient report page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137878912
+      }
+    ],
+    "11.6 Implement campaigns API routes": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879084
+      }
+    ],
+    "12.1 Implement rate limiter": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879197
+      }
+    ],
+    "12.2 Implement email sender with SMTP/IMAP": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879295
+      }
+    ],
+    "12.3 Implement queue processor": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879397
+      }
+    ],
+    "12.4 Implement worker health check": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879585
+      }
+    ],
+    "12.5 Implement worker entry point": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879699
+      }
+    ],
+    "13.1 Implement retry functionality in queue service": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879817
+      }
+    ],
+    "13.2 Create retry API route": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137879912
+      }
+    ],
+    "13.3 Add retry UI to recipient report page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880014
+      }
+    ],
+    "14.1 Build SMTP configuration page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880116
+      }
+    ],
+    "14.2 Build IMAP configuration page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880211
+      }
+    ],
+    "14.3 Implement configuration API routes": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880333
+      }
+    ],
+    "15. Checkpoint - Core features complete": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880433
+      }
+    ],
+    "16.1 Implement health check API": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880606
+      }
+    ],
+    "16.2 Add worker status indicator to dashboard": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880715
+      }
+    ],
+    "17.1 Implement campaign analytics functions": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880814
+      }
+    ],
+    "17.2 Add analytics to campaign detail page": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137880913
+      }
+    ],
+    "17.3 Implement CSV export for recipient reports": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881017
+      }
+    ],
+    "18.1 Implement CSRF protection": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881113
+      }
+    ],
+    "18.2 Implement input sanitization": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881221
+      }
+    ],
+    "18.3 Configure secure session cookies": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881404
+      }
+    ],
+    "19.1 Implement logging utility": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881500
+      }
+    ],
+    "19.2 Add logging to critical operations": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881600
+      }
+    ],
+    "19.3 Implement error handling middleware": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881700
+      }
+    ],
+    "20.1 Optimize database queries": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881795
+      }
+    ],
+    "20.2 Optimize contact import performance": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881899
+      }
+    ],
+    "21.1 Create deployment documentation": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137881999
+      }
+    ],
+    "21.2 Create database setup scripts": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137882126
+      }
+    ],
+    "21.3 Configure worker deployment": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137882297
+      }
+    ],
+    "21.4 Configure production settings": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137882409
+      }
+    ],
+    "23. Final checkpoint and deployment": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791137882496
+      }
+    ],
+    "2. Database schema and connection setup": [
+      {
+        "executionId": "b112e8dc-d247-447b-bd09-150101c1ee18",
+        "chatSessionId": "sess_24f54ba0-2d80-419c-b477-7349086e352e",
+        "timestamp": 1791139947381
+      }
+    ]
+  }
+}
